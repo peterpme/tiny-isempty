@@ -1,0 +1,8 @@
+{
+  "name": "tiny-isempty",
+  "version": "1.0.0",
+  "description": "A tiny implementation of isEmpty that works on strings, objects & arrays",
+  "main": "src/index.js",
+  "author": "Peter Piekarczyk <peterpiekarczyk@gmail.com>",
+  "license": "MIT"
+}
